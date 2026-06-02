@@ -1,6 +1,5 @@
 {
     "name":  "vectorizer/ai",
-    "version":  "1.0.0",
     "description":  "Official PHP SDK for the Vectorizer.AI image vectorization API.",
     "keywords":  [
                      "openapitools",
