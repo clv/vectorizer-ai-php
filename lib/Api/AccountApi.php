@@ -73,7 +73,7 @@ class AccountApi
     /** @var string[] $contentTypes **/
     public const contentTypes = [
         'getAccountStatus' => [
-            'application/json',
+            '',
         ],
     ];
 
