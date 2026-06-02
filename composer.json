@@ -1,4 +1,4 @@
-﻿{
+{
     "name":  "vectorizer/ai",
     "version":  "1.0.0",
     "description":  "Official PHP SDK for the Vectorizer.AI image vectorization API.",
@@ -12,7 +12,7 @@
                      "api"
                  ],
     "homepage":  "https://github.com/clv/vectorizer-ai-php",
-    "license":  "unlicense",
+    "license":  "Apache-2.0",
     "authors":  [
                     {
                         "name":  "Vectorizer.AI",
